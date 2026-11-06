@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0633,100:9b4dff&height=160&section=header&text=Kyoki&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/> <p align="center"> 
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=B57BFF&center=true&vCenter=true&width=520&lines=Developer;Делаю+веб-приложения+под+реальные+задачи;От+идеи+до+деплоя" alt="typing" /> </p>
-
 ### 👋 Привет!
 
 - 📍 Новосибирск
